@@ -1,5 +1,10 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
-}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+  }
+  div {
+    margin: 100px;
+    text-align: center;
+  }
